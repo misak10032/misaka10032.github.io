@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>博客搭建完成</title>
+      <link href="2021/05/08/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AE%8C%E6%88%90/"/>
+      <url>2021/05/08/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AE%8C%E6%88%90/</url>
+      
+        <content type="html"><![CDATA[<p>经历了一个晚上+一个早上的研究，最基本的博客功能已经实现了，不过现在还只是本地端的部署，域名服务器审核等一系列审核还没通过，等正式审核通过过了之后，差不多就可以部署到服务器上面了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> pc+移动端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人站点</title>
+      <link href="2021/05/08/%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/"/>
+      <url>2021/05/08/%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</url>
+      
+        <content type="html"><![CDATA[<h3 id="御坂网络"><a href="#御坂网络" class="headerlink" title="御坂网络"></a>御坂网络</h3><blockquote><p>域名地址：misakaumr.xyz</p><p> (misakaumr.herokuapp.com)](<a href="https://misakaumr.herokuapp.com/">https://misakaumr.herokuapp.com/</a>)</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> pc+移动端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
